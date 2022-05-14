@@ -12,7 +12,7 @@ var TargetSectionID = this.textContent.trim();
 
 var TargetSection = document.getElementById(TargetSectionID);
 
-interval = setInterval(scrollVertically, 12, TargetSection);
+interval = setInterval(scrollVertically, 5, TargetSection);
 });
 
 }
