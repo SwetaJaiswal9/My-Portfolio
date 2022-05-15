@@ -513,5 +513,31 @@ height: 105vh;
 		height: 2.5rem;
 		width: 2.5rem;
 	}
+
+	#contact-flex{
+
+	background-image: linear-gradient(to top right, #780c84, #8d0707);
+	height: 60vh;
+	width: 44vh;
+	display: flex;
+	flex-direction: column;
+	color: white;
+	align-items: center;
+	padding-top: 4rem;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	margin-left: 0rem;
+	margin-bottom: 2rem;
+}
+
+	#contact-flex h1{
+
+		font-size: 1.8rem;
+	}
+
+	#contact-flex span{
+
+		font-size: 1.1rem;
+	}
 }
 
